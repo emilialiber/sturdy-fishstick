@@ -1,4 +1,6 @@
 print("Cześć!")
+print("Cześć")
+print("3+3")
 print("2+2")
 print(2+2)
 print(3-10)
