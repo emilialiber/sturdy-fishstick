@@ -1,4 +1,6 @@
 print("Cześć!")
+print("Cześć")
+print("3+3")
 print("2+2")
 print(2+2)
 print(3-10)
@@ -25,3 +27,4 @@ print("Cześć", imie)
 
 wiek=input("Ile masz lat? \n")
 print("Masz",wiek,"lat")
+print("zmiana")
