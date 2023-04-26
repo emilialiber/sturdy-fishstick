@@ -1,0 +1,27 @@
+print("Cześć!")
+print("2+2")
+print(2+2)
+print(3-10)
+print(3*8)
+print(12/3)
+print(2**3)
+print(2-9*0.4)
+print("hej\n"*10)
+print("hej\t"*10)
+print("hej\n"*7)
+zmienna1 = 10
+zmienna2 = 'cześć'
+zmienna3 = 10.5
+print(zmienna1)
+print(zmienna2)
+print(zmienna1*zmienna3)
+print(type(zmienna2))
+print(type(zmienna1))
+print(type(zmienna3))
+print("wynikiem mnożenia",zmienna1, "i", zmienna3, "jest", zmienna1*zmienna3)
+print("Jak masz na imie? \n")
+imie=input()
+print("Cześć", imie)
+
+wiek=input("Ile masz lat? \n")
+print("Masz",wiek,"lat")
