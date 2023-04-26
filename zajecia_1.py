@@ -27,3 +27,4 @@ print("Cześć", imie)
 
 wiek=input("Ile masz lat? \n")
 print("Masz",wiek,"lat")
+print("zmiana")
